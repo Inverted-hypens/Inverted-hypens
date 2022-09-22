@@ -1,0 +1,5 @@
+- 👋 Hi, you can call me SJ. Although the government prefer calling me Bestman Sene.
+- 👀 I’m interested in a lot of things. But for now I'm speaking codes.
+- 🌱 I’m currently learning at ALX Software Engineering program.
+- 💞️ I’m looking to collaborate on projects, learn and maybe earn as well.
+- 📫 How to reach me? I'll find you! 
